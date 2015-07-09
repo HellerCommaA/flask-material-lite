@@ -1,0 +1,10 @@
+lib/
+bin/
+local/
+*.pyc
+Flask_Material.egg-info/
+Flask_Materialize.egg-info/
+dist/
+.tox/
+docs/
+
