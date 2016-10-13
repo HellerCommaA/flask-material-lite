@@ -1,0 +1,2 @@
+recursive-include flask_material_lite/static *
+recursive-include flask_material_lite/templates *.html
